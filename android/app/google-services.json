@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929515183397",
+    "project_id": "docessuh-7ecff",
+    "storage_bucket": "docessuh-7ecff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929515183397:android:615f49bb26540e79598ecc",
+        "android_client_info": {
+          "package_name": "br.com.et.docessuh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929515183397-2etg9f3cv4810b3b8huf6864lsel4lln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.et.docessuh",
+            "certificate_hash": "ecdcc39a2c2ce773602c6ec6266b5a26f9622baf"
+          }
+        },
+        {
+          "client_id": "929515183397-igsn3po33h93me403hna297kumbpbrav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAefHZ1bNS1eIKte2GDzmnKfrXJ5s-YFI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929515183397-igsn3po33h93me403hna297kumbpbrav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
